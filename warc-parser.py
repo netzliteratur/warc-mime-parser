@@ -73,9 +73,8 @@ def extract_mime_types(warc_file):
 
 def pretty_printing(title, in_dict):
     """
-    takes a dict as input
-    and does some pretty 
-    printing
+    takes a dict as input and does 
+    some pretty printing
     """
     print("\n")
     print("* " * 24)
