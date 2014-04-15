@@ -71,6 +71,7 @@ def extract_mime_types(warc_file):
                 fd.write("")
                 fd.close()
 
+
 def pretty_printing(title, in_dict):
     """
     takes a dict as input and does 
